@@ -1,0 +1,90 @@
+.icon-logo{
+    width: 198.07px;
+    height: 59px;
+    padding-top: 30px;
+    padding-left: 212px;
+}
+.unorder-list{
+    list-style-type: none;
+}
+li{
+    display: inline;
+    float: left;
+}
+#books{
+    width: 57px;
+    height: 34px;
+    padding-left: 835px;
+    padding-top: 0%;
+    gap: 10px;
+}
+#courses{
+    width: 76px;
+    gap: 10px;
+}
+#others{
+    width: 64px;
+    gap: 10px;
+}
+#blog{
+    width: 45px;
+    gap: 10px;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-color: #21B573;
+    border-radius: 33px;
+    gap: 10px;
+    width: 104px;
+    padding: 12px 28px 12px 28px;
+}
+.half-width{
+    float: left;
+}
+#learn-fun{
+    width: 188px;
+    height: 24px;
+    padding-left: 205px;
+}
+p{
+    font-size: 16px;
+    color: #FD511A;
+    height: 24px;
+    font-weight: 400px;
+}
+h1{
+    width: 405px;
+    font-weight:400px;
+    font-size:40px;
+    color:#000000;
+    gap: 2px;
+}
+.half-width img{
+    width: 554px;
+    height:346px;
+    padding-left: 691px;
+}
+.name-heighlight{
+    color: #21B573 ;
+}
+.lorem-ipsum{
+    color:#6C6B6B;
+    width: 403px;
+    font-weight: 400px;
+    font-size: 16px;
+}
+.start-button{
+    width: 153px;
+    height: 43px;
+    padding: 12px 36px 12px 36px;
+    border-radius: 33px;
+    gap: 10px;
+    color: white;
+    background-color: #21B573;
+    text-decoration: none;
+}
+.e-school{
+    background-color: #F0FFF0;
+    height: 576px;
+}
